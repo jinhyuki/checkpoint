@@ -75,4 +75,4 @@ var CheckpointActions = {
 
 };
 
-module.exports = TodoActions;
+module.exports = CheckpointActions;
